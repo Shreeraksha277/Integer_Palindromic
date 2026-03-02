@@ -3,7 +3,7 @@ class Solution {
         // Negative numbers are not palindrome
         if (x < 0) return false;
 
-        int original = x;
+        int original = x; 
         int reversed = 0;
 
         while (x != 0) {
