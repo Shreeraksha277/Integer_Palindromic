@@ -1,7 +1,7 @@
  class Solution {
      public boolean isPalindrome(int x) {
         // Negative numbers are not palindrome
-        if (x < 0) return false;
+        if (x < 0) return f alse;
 
         int original = x; 
         int reversed = 0;
